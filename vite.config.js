@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base:'deploy-vite',
+    base:'deploy-vite.git',
 })
